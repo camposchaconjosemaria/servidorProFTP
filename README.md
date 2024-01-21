@@ -200,7 +200,7 @@ TransferRate RETR 50 user usuario1
 
 http://www.proftpd.org/docs/contrib/ftpquota.html
 
-### 5. Acceso de usuario anónimo
+### 4. Acceso de usuario anónimo
 
 Una función que permiten los servidores FTP es dejar a usuarios anónimos conectarse a ellos.
 
