@@ -221,7 +221,10 @@ Descomentamos las lineas necesarias para una configuración básica de la conexi
 
 ![image](https://github.com/camposchaconjosemaria/servidorProFTP/assets/114906855/c60b692d-9cf4-405e-9a65-11ffdab45de1)
 
+### 5. Referencias
 
+[ProFTPD Documentation](http://www.proftpd.org/docs/)
+[Dungeon of bits](https://dungeonofbits.com/instalacion-y-configuracion-del-servidor-ftp-proftpd.html)
 
 
 
