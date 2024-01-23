@@ -224,6 +224,7 @@ Descomentamos las lineas necesarias para una configuración básica de la conexi
 ### 5. Referencias
 
 [ProFTPD Documentation](http://www.proftpd.org/docs/)
+
 [Dungeon of bits](https://dungeonofbits.com/instalacion-y-configuracion-del-servidor-ftp-proftpd.html)
 
 
