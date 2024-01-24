@@ -198,7 +198,6 @@ Para ello debes introducir en el fichero de configuración la directiva Transfer
 TransferRate RETR 50 user usuario1
 ```
 
-http://www.proftpd.org/docs/contrib/ftpquota.html
 
 ### 4. Acceso de usuario anónimo
 
@@ -217,15 +216,24 @@ sudo chown -R ftp /var/ftp
 ```
 Descomentamos las lineas necesarias para una configuración básica de la conexión y reiniciamos el servicio:
 
-![image](https://github.com/camposchaconjosemaria/servidorProFTP/assets/114906855/519f0ede-c52b-47bb-bc0c-e03f2f1cb0f2)
+<img src="https://github.com/camposchaconjosemaria/servidorProFTP/assets/114906855/519f0ede-c52b-47bb-bc0c-e03f2f1cb0f2" width="550px">
 
-![image](https://github.com/camposchaconjosemaria/servidorProFTP/assets/114906855/c60b692d-9cf4-405e-9a65-11ffdab45de1)
+<img src="https://github.com/camposchaconjosemaria/servidorProFTP/assets/114906855/c60b692d-9cf4-405e-9a65-11ffdab45de1" width="550px">
 
 ### 5. Referencias
 
-[ProFTPD Documentation](http://www.proftpd.org/docs/)
+- [ProFTPD Documentation](http://www.proftpd.org/docs/)
 
-[Dungeon of bits](https://dungeonofbits.com/instalacion-y-configuracion-del-servidor-ftp-proftpd.html)
+- [Dungeon of bits](https://dungeonofbits.com/instalacion-y-configuracion-del-servidor-ftp-proftpd.html)
+
+### 6. Licencia
+
+<p align="center">
+  <img src="https://github.com/camposchaconjosemaria/servidorProFTP/assets/114906855/a4f36118-06cf-4a79-8eda-e0e029c21ff2" alt="licencia">
+</p>
+
+
+
 
 
 
